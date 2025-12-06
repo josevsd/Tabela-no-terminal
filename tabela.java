@@ -54,7 +54,7 @@ public class questFormat {
 		 * i = linha
 		 * j = coluna
 		 * 
-		 * O que ele faz?
+		 * A lógica:
 		 *  1- IF - Quando a linha e a colona ter o mesmo valor, o array recebe um espaço 
 		 *  2- ELSE IF - Quando a columa for divisivel por 2, ele passa direto
 		 *  	Se não o array recebe o primeiro caractere 
